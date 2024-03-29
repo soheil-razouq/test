@@ -7,7 +7,7 @@ export default function T1(){
             T3
             T4
             T5
-            T6
+      
         </>
     )
 }
