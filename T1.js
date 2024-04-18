@@ -10,7 +10,7 @@ export default function T1(){
             fudjdjen
                 jdjdndnf
                     fndnd
-                        sms do do go go go go do do do ESO to KC to E
+                        sms do do qfzertdfgfgdf
            
         </>
     )
