@@ -2,7 +2,7 @@ import React from "react";
 function Q6() {
   return (
     <div>
-      fefrezedfgerfgrg
+      fefrezedfgerfgrgchgjh , j  dfnvkds
     rth,rgth*ijijuh
       sdfg
     </div>
