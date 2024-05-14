@@ -3,7 +3,7 @@ function Q6() {
   return (
     <div>
       fefrezedfgerfgrgchgjh , j  dfnvkds
-    rth,rgth*ijijuh
+    rth,rgth*ijijuhtvghvv
       sdfg
     </div>
   );
