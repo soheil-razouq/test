@@ -2,7 +2,7 @@ import React from "react";
 function Q6() {
   return (
     <div>
-    hjddddلللا
+    hjd go go
     </div>
   );
 }
